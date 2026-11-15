@@ -1,5 +1,3 @@
-JavaScript Journey
-
 This repository documents my JavaScript learning journey, from fundamental concepts to practical programming and development.
 
 Topics Covered
